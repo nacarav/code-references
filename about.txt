@@ -1,0 +1,10 @@
+*AirBnb Clone Project - Web Application
+*Frameworks: Angular/Ionic, Bootstrap
+*Languages: C++, SQL, Javascript, CSS(For Ionic Customization)
+*Nick Caravaggio
+
+This web-app was made using Ionic, a frontend web-application framework designed with easy cross-platform integration in mind, especially for touch screen devices.
+
+This web-app was built to mimic the functionalities of an "AirBnb"-like app, with scrollable interfaces, infinite loading lists, and a GET/POST database integration running locally.
+
+This was made at iExperience, a coding camp in Lisbon, Portugal in Summer 2019.
